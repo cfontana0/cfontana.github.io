@@ -303,7 +303,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #5CA959;
+	background: #1E5DFF;
 	position: absolute;
 	left: -17px;
 	top: 11px;
@@ -311,7 +311,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #5CA959;
+	color: #1E5DFF;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -456,7 +456,7 @@ img.pull-left {
 	margin-left: -30px;
 	margin-top: -30px;
 	padding: 0;
-	background-color: #5CA959;
+	background-color: #1E5DFF;
 	border-radius: 100%;
 	-webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
 	animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -587,7 +587,7 @@ label, legend {
 	display: block;
 }
 label span, legend span {
-	color: #5CA959;
+	color: #1E5DFF;
 }
 input[type="checkbox"], input[type="radio"] {
 	display: inline;
@@ -670,7 +670,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #5CA959;
+	background: #1E5DFF;
 	color: #FFFFFF;
 }
 
@@ -753,7 +753,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro .with-bottom-line::after {
 	display: block;
-	background-color: #5CA959;
+	background-color: #1E5DFF;
 	width: 120px;
 	height: 3px;
 	content: '\0020';
@@ -932,7 +932,7 @@ a.menu-toggle {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background-color: #5CA959;
+	background-color: #1E5DFF;
 	content: '\0020';
 	display: block;
 	-moz-transition: all 0.3s ease-in-out;
@@ -942,7 +942,7 @@ a.menu-toggle {
 	transition: all 0.3s ease-in-out;
 }
 .main-navigation li.highlight a {
-	color: #5CA959;
+	color: #1E5DFF;
 }
 .main-navigation li.with-sep a {
 	position: relative;
@@ -1281,8 +1281,8 @@ a.menu-toggle {
 	letter-spacing: .4rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	color: #5CA959;
-	border-color: #5CA959;
+	color: #1E5DFF;
+	border-color: #1E5DFF;
 }
 
 /**
@@ -1528,7 +1528,7 @@ a.menu-toggle {
 	margin-bottom: 1.5rem;
 }
 .process-content h5 {
-	color: #5CA959;
+	color: #1E5DFF;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	letter-spacing: .2rem;
@@ -1631,7 +1631,7 @@ a.menu-toggle {
 .features-list .h05 {
 	font-size: 1.7rem;
 	line-height: 1.765;
-	color: #5CA959;
+	color: #1E5DFF;
 	margin-bottom: 1.8rem;
 }
 
@@ -1771,7 +1771,7 @@ a.menu-toggle {
 	border: none;
 }
 .who-we-are-content .primary .top-part {
-	background: #5CA959;
+	background: #1E5DFF;
 }
 .who-we-are-content .primary .top-part::before {
 	content: attr(data-info);
@@ -2002,7 +2002,7 @@ a.menu-toggle {
 }
 #testimonials .h01::after {
 	display: block;
-	background-color: #5CA959;
+	background-color: #1E5DFF;
 	width: 120px;
 	height: 3px;
 	content: '\0020';
@@ -2099,11 +2099,11 @@ a.menu-toggle {
 	color: transparent;
 }
 #testimonials .flex-control-paging li a:hover {
-	border: 4px solid #5CA959;
+	border: 4px solid #1E5DFF;
 }
 #testimonials .flex-control-paging li a.flex-active {
-	background: #5CA959;
-	border-color: #5CA959;
+	background: #1E5DFF;
+	border-color: #1E5DFF;
 	cursor: default;
 }
 
@@ -2148,7 +2148,7 @@ a.menu-toggle {
 }
 #testimonials .flex-direction-nav li a.flex-next:hover::after,
 #testimonials .flex-direction-nav li a.flex-prev:hover::before {
-	background: #5CA959;
+	background: #1E5DFF;
 	color: #FFFFFF;
 }
 #testimonials .flex-direction-nav li.flex-nav-prev {
@@ -2226,7 +2226,7 @@ a.menu-toggle {
 }
 #clients .h01::after {
 	display: block;
-	background-color: #5CA959;
+	background-color: #1E5DFF;
 	width: 120px;
 	height: 3px;
 	content: '\0020';
@@ -2506,7 +2506,7 @@ a.menu-toggle {
 	color: #0087cc;
 }
 .section-ads .button {
-	background: #5CA959;
+	background: #1E5DFF;
 	color: #FFFFFF;
 }
 .section-ads .button:hover, .section-ads .button:focus {
@@ -2522,7 +2522,7 @@ a.menu-toggle {
  */
 
 #cta {
-	background: #5CA959;
+	background: #1E5DFF;
 	padding-top: 7.2rem;
 	padding-bottom: 9rem;
 	text-align: center;
@@ -2622,7 +2622,7 @@ footer {
 	color: #465166;
 }
 footer a, footer a:visited {
-	color: #5CA959;
+	color: #1E5DFF;
 }
 footer a:hover, footer a:focus {
 	color: #FFFFFF;
